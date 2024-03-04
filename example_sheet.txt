@@ -1,0 +1,108 @@
+l
+l
+l
+s
+k  
+k  
+k  
+a  
+j  
+j  
+j  
+p  
+g  
+g  
+f  
+l  
+[10] 8 0 w [0l] 8 0 w  
+[10] 8 0 w [0l] 8 0 w  
+[10] 8 0 w [0l] 8 0 w  
+[10] 8 0 w [0s] 8 0 w  
+0 7 0 w [0k] 7 0 w  
+0 7 0 w [0k] 7 0 w  
+0 7 0 w [0k] 7 0 w  
+0 7 0 w [0a] 7 0 w  
+8 6 8 0 [8j] 6 8 0  
+8 6 8 0 [8j] 6 8 0  
+8 6 8 0 [8j] 6 8 0  
+8 6 8 0 [8p] 6 8 0  
+8 6 8 q [8g] 6 8 q  
+8 6 8 q [8g] 6 8 q  
+8 6 8 q [8f] 6 8 q  
+8 6 8 q l  
+u  
+u [18s] o 0 [wi]  
+0 [8u] 0 [wu] [0s] [8o] 0 [wi]  
+0 [8u] 0 [wu] [7a] p [0a] w  
+0 7 0 w 0 7 0 w  
+0 7 [0f] [wf] [0f] [7d] [0d] [wd]  
+0 [7s] 0 [wd] 0 7 [0s] w  
+[0d] 7 [0f] [wd] [6s] 8 0  
+8 6 8 0 8 6 8 0  
+8 6 [8s] 0 [8s] 6 o 8 [0o]  
+8 6 8 [0u] [8o] 6 [8u] 0  
+[8o] 6 [8u] [0ip] 4 s 8 q  
+8 6 8 q 8 6 8 q  
+8 6 [8s] [qs] [8s] [6o] 8 [qo]  
+8 6 [8u] q [8o] 6 [8u] q  
+[8o] 6 [8p] [qo] [18] [0t] [8w]  
+[0t] [8wo] [0to] [8wo] [0to] [8w] [0to] [8wo]  
+[0ts] [8w] [0to] [8w] [0tu] [8w] [0t] [8w]  
+[0t] [8wo] [0to] [8wo] [0wto] [0to] [8wo]  
+[0ts] [tua] [wtp] [7a] [0r] [7w]  
+[0r] [7wa] [0rsf] [7woa] [0rsf] [7w] [0rsf] [7wad]  
+[0rsf] [7w] [0rad] [7w] [0rps] [7w] [0r] [7w]  
+[0r] [7wp] [0rups] [7wp] [0rups] [7w] [0rups] [7wp]  
+[0ruad] [7w] [0ruad] [7ws] 6 [8e] [60]  
+[8e] [60p] [8eups] [60p] [8eups] [60] [8eups] [60p]  
+[8euad] [60] [8euad] s [8e] [60] [8e] [60]  
+[8e] [60p] [8eups] [60p] [8eups] [60] [8eups] [60p]  
+[8euad] [60] [8eiad] [60s] 4 [8e] [6q]  
+[8eo] [6qo] [8eo] [6q] [8eo] [6q] [8eu] [6q]  
+[8eu] o o o  
+o u [yp]  
+[uo] [10] 8 0 w  
+[0l] 8 0 w [10] 8 0 w  
+[0l] 8 0 w [10] 8 0 w  
+[0l] 8 0 w [10] 8 0 w  
+[0s] 8 0 w 0 7 0 w  
+[0k] 7 0 w 0 7 0 w  
+[0k] 7 0 w 0 7 0 w  
+[0k] 7 0 w 0 7 0 w  
+[0a] 7 0 w 8 6 8 0  
+[8j] 6 8 0 8 6 8 0  
+[8j] 6 8 0 8 6 8 0  
+[8j] 6 8 0 8 6 8 0  
+[8p] 6 8 0 8 6 8 q  
+[8g] 6 8 q 8 6 8 q  
+[8g] 6 8 q 8 6 8 q  
+[8f] 6 8 q 8 6 8 q  
+s u u [18s] o 0 [wi]  
+0 [8u] 0 [wu] [0s] [8o] 0 [wi]  
+0 [8u] 0 [wu] [7a] p [0a] w  
+0 7 0 w 0 7 0 w  
+0 7 [0f] [wf] [0f] [7d] [0d] [wd]  
+0 [7s] 0 [wd] 0 7 [0s] w  
+[0d] 7 [0f] [wd] [6s] 8 0  
+8 6 8 0 8 6 8 0  
+8 6 [8s] 0 [8s] 6 o 8 [0o]  
+8 6 8 [0u] [8o] 6 [8u] 0  
+[8o] 6 [8u] [0ip] 4 s 8 q  
+8 6 8 q [18] [0t] [8w]  
+[0t] [8wo] [0to] [8wo] [0to] [8w] [0to] [8wo]  
+[0ts] [8w] [0to] [8w] [0tu] [8w] [0t] [8wo]  
+[0to] [8wo] [0wto] [0to] [8wo] [0ts]  
+[tua] [wtp] [7a] [0r] [7w] [0r] [7wa]  
+[0rsf] [7woa] [0rsf] [7w] [0rsf] [7wad] [0rsf] [7w]  
+[0rad] [7w] [6ps] [8e] [60] [8e] [60]  
+[8e] [60p] [8eups] [60p] [8eups] [60] [8eups] [60p]  
+[8euad] [60] [8euad] s [8e] [60] [8e] [60]  
+[8e] [60p] [8eups] [60p] [8eups] [60] [8eups] [60p]  
+[8euad] [60] [8euad] s [8e] [60] [8e] [60]  
+[8e] [60p] [8eups] [60p] [8eups] [60] [8eups] [60p]  
+[8euad] [60] [8eiad] [60s] 4 [8e] [6q]  
+[8e] [6q] [8e] [6q] [8eh] [6q] h [8e] h [6q]  
+[8eh] [6q] [8ef] [6q] [8e] [6q] f  
+l  
+l  
+l  
