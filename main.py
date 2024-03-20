@@ -21,14 +21,26 @@ def get_sheet():
 def play_key(i, sheet):
     if sheet[i] == '[':
         j = i + 1
+        char = sheet[j]
         while sheet[j] != ']':
-            keyboard.press_and_release(sheet[j])
+            if char.isupper():
+                keyboard.press("shift")
+                keyboard.press_and_release(f'{sheet[j]}')
+                keyboard.release("shift")
+            else:
+                keyboard.press_and_release(sheet[j])
             print(sheet[j])
             j += 1
         i = j + 1
         return i
     else:
-        keyboard.press_and_release(sheet[i])
+        char = sheet[i]
+        if char.isupper():
+            keyboard.press("shift")
+            keyboard.press_and_release(f'{sheet[i]}')
+            keyboard.release("shift")
+        else:
+            keyboard.press_and_release(sheet[i])
         print(sheet[i])
         i += 1
         return i
